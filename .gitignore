@@ -1,0 +1,8 @@
+# Ignore the environment file with your secrets
+.env
+
+# Ignore build files
+build/
+dist/
+__pycache__/
+*.spec
