@@ -25,3 +25,6 @@ The BusT Spotify Playlist Manager with a visual dashboard.
 - **Curate & Discover:** Filter by genre and add "Spice" (new music discovery).
 - **Reader Mode:** Instantly filter out songs with lyrics.
 - **Visual Stats:** See a breakdown of your library's genres.
+
+## Coming soon
+- **Transfer Playlists:** Transfer your spotify liked songs / playlist to Youtube music.

@@ -6,3 +6,7 @@ build/
 dist/
 __pycache__/
 *.spec
+.gitignore
+
+# VS Code settings (optional)
+.vscode/
